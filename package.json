@@ -1,0 +1,18 @@
+{
+  "name": "fm-plugin-toastr",
+  "version": "1.0.0",
+  "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
+  "license": "UNLICENSED",
+  "main": "js/toastr.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMatter/fm-plugin-toastr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrontendMatter/fm-plugin-toastr/issues"
+  },
+  "homepage": "https://github.com/FrontendMatter/fm-plugin-toastr#readme",
+  "dependencies": {
+    "toastr": "^2.1.4"
+  }
+}
